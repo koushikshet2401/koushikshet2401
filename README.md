@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Koushik</h1>
+<h3 align="center">🚀 A Passionate Web Developer</h3>
 
-<!--
-**koushikshet2401/koushikshet2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 💻 Interested in **Full-Stack Web Development**  
+- 🎯 Goal: To build scalable, efficient, and user-friendly applications  
+- ⚡ Fun fact: I love exploring new technologies & solving coding challenges  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>  
+
+---
+
+### 📌 Projects  
+- 🌐 [**Portfolio Website**](#) – My personal portfolio built with React & Tailwind  
+- 📊 [**Library Management System**](#) – MERN stack project to manage books and students  
+- 🔒 [**Authentication System**](#) – Secure login/signup system with JWT & MongoDB  
+
+
+
+---
+
+### 📫 Connect with Me  
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  <a href="https://t.me/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  </a>
+</div>  
+
+---
+
+ 
+### 📊 GitHub Stats  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=koushikshet2401&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushikshet2401&theme=tokyonight" height="150" alt="streak graph" />
+
+</div>
+
+---
+
+
+
+---
+
+### 🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=koushikshet2401&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</div>
+
+---
