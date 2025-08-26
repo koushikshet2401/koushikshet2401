@@ -30,8 +30,8 @@
 
 ### 📌 Projects  
 - 🌐 [**Portfolio Website**](#) – My personal portfolio built with React & Tailwind  
-- 📊 [**Library Management System**](#) – MERN stack project to manage books and students  
-- 🔒 [**Authentication System**](#) – Secure login/signup system with JWT & MongoDB  
+- 📊 [**Weather App**](https://koushikshet2401.github.io/weather-app/) – Javascript project to check weather 
+- 🔒 [**To-Do**](#) – Secure Do-To App with Local storage  
 
 
 
