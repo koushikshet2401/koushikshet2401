@@ -29,7 +29,7 @@
 ---
 
 ### 📌 Projects  
-- 🌐 [**Portfolio Website**](#) – My personal portfolio built with React & Tailwind  
+- 🌐 [**Portfolio Website**](https://koushikshet2401.github.io/portfolio/) – My personal portfolio built with React & Tailwind  
 - 📊 [**Weather App**](https://koushikshet2401.github.io/weather-app/) – Javascript project to check weather 
 - 🔒 [**To-Do**](https://koushikshet2401.github.io/To-Do-/) – Secure Do-To App with Local storage  
 
